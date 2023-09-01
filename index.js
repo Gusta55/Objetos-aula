@@ -64,3 +64,5 @@ const pessoa = {
 console.log(`Eu sou ${pessoa.nome}, mas pode me chamar de: ${pessoa.apelidos[0]}, ${pessoa.apelidos[1]} ou ${pessoa.apelidos[2]}`)
  // Exemplo de saída
  //"Eu sou Vitor, mas pode me chamar de: Vitinho, Vitão ou Vit"
+
+ //teste
